@@ -38,7 +38,7 @@
     },
     "AUTO_TYPING": {
       "description": "Enable bot to show typing status (true/false)",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "AUTO_RECORDING": {
@@ -48,7 +48,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_REACT": {
